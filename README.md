@@ -7,7 +7,7 @@
 
 </div>
 
-A tour on Deep Learning with Tensorflow
+## A tour on Deep Learning with Tensorflow
 
 ## :page_with_curl: NOTICE
 
